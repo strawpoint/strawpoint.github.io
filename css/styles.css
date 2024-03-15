@@ -994,6 +994,141 @@ margin-bottom: 20px;
 }
 
 
+.start{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    color: #020a3a;
+}
+
+.start h1{
+    margin-bottom: 15px;
+}
+
+.options1{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 15%;
+    text-align: left;
+    background-color: #fff3f3;
+    justify-content: space-evenly;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.options1:hover{
+    box-shadow: 0 0 20px 0px rgba(0,0,0, 0.5);
+}
+
+.options1 img{
+    width: 100%;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+
+.options1 h3{
+    margin-bottom: 15px;
+    margin-top: 16px;
+    text-align: center;
+}
+
+
+
+.options2{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 15%;
+    text-align: left;
+    background-color: #fff3f3;
+    justify-content: space-evenly;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.options2:hover{
+    box-shadow: 0 0 20px 0px rgba(0,0,0, 0.5);
+}
+
+.options2 img{
+    width: 100%;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+
+.options2 h3{
+    margin-bottom: 15px;
+    margin-top: 16px;
+    text-align: center;
+}
+
+
+
+.options3{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 15%;
+    text-align: left;
+    background-color: #fff3f3;
+    justify-content: space-evenly;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.options3:hover{
+    box-shadow: 0 0 20px 0px rgba(0,0,0, 0.5);
+}
+
+.options3 img{
+    width: 100%;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+
+.options3 h3{
+    margin-bottom: 15px;
+    margin-top: 16px;
+    text-align: center;
+}
+
+
+
+.options4{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 15%;
+    text-align: left;
+    background-color: #fff3f3;
+    justify-content: space-evenly;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.options4:hover{
+    box-shadow: 0 0 20px 0px rgba(0,0,0, 0.5);
+}
+.options4 img{
+    width: 100%;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+
+.options4 h3{
+    margin-bottom: 15px;
+    margin-top: 16px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
 @media (max-width:800px){
     .nav__menu{
         display: block;
