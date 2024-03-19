@@ -1324,9 +1324,9 @@ margin-bottom: 20px;
 
 
 .startup-right img{
-    width: 60%;
+    width: 100%;
     justify-content: center;
-    margin-left: 50px;
+  
 }
 
 .startup-right h3{
@@ -1353,7 +1353,10 @@ margin-bottom: 20px;
 }
 
 
+.startup1 .cta{
+    margin-left: 30px;
 
+}
 
 
 
